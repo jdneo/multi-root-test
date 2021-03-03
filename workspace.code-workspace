@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "unmanaged-folder"
+		},
+		{
+			"path": "spring-petclinic"
+		}
+	],
+	"settings": {}
+}
